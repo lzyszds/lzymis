@@ -9,7 +9,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ##  npm install
 The first time you import a project, you need to pre install the environment
 
-##  npm run dev
+##  npm run serve
 Running service
 
 ##  npm run build
